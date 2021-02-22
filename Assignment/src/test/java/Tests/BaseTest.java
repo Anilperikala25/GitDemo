@@ -14,6 +14,12 @@ public class BaseTest {
 // Just to update my details in git adding this note
 
 
+
+
+
+// Again adding some comments just to see my code on eclipse is updating or not
+
+
     @BeforeSuite
     public void beforeSuite() {
         System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "\\drivers\\chromedriver.exe");
