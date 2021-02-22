@@ -10,6 +10,10 @@ public class BaseTest {
 
     private WebDriver driver;
 
+
+// Just to update my details in git adding this note
+
+
     @BeforeSuite
     public void beforeSuite() {
         System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir") + "\\drivers\\chromedriver.exe");
