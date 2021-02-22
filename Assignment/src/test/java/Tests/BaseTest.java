@@ -11,7 +11,18 @@ public class BaseTest {
     private WebDriver driver;
 
 
-// Just to update my details in git adding this note
+// Just to 
+
+// update my details in
+
+//  git 
+
+// adding this
+
+//  note
+
+
+
 
 
     @BeforeSuite
@@ -28,6 +39,7 @@ public class BaseTest {
             driver.quit();
         }
     }
+
 
     public WebDriver getDriver() {
         return driver;
