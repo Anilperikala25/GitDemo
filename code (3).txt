@@ -15,6 +15,12 @@ public class Scope {
 //1. Give me the count of links on the page.
 		//2. Count of footer section-
 		
+// I am just making changes to show them in git hub to learn them faster 
+// this git is awesome to work on
+
+
+
+
 		System.setProperty("webdriver.chrome.driver", "C:\\work\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		
